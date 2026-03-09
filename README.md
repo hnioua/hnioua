@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1ABC9C&width=480&height=28&lines=Hi👋,+I'm+Abdessamad+Hnioua!;Full-Stack+Developer+and+Data+Scientist;Master+Student+in+AI+and+Computer+Engineering;Passionate+about+AI,+IoT,+and+Innovation;Welcome+to+my+GitHub+Profile!&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1ABC9C&width=480&height=28&lines=Hi👋,+I'm+Abdessamad+Hnioua!;Full-Stack+Developer+and+Data+Scientist; Master+Student+in+AI+and+Computer+Engineering;Passionate+about+AI,+IoT,+and+Innovation;Welcome+to+my+GitHub+Profile!&center=true">
 </p>
 
 ---
