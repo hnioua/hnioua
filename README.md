@@ -29,7 +29,3 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me" width="180px">
 </p>
-
-<p align="center">
-  <img src="https://visitor-badge.deta.dev/badge?page_id=AbdessamadHnioua.AbdessamadHnioua&left_color=gray&right_color=blue" alt="visitors"/>
-</p>
