@@ -8,11 +8,13 @@
 
 ---
 
-## 👨‍💻 About Me:
-🎓 Master Student in **Artificial Intelligence & Computer Engineering** – *FST Marrakech*  
-💼 **Full-Stack Developer** | **Data Analyst** | **IoT & AI Enthusiast**  
-🚀 Passionate about technology, robotics, and intelligent systems.  
-📫 Reach me at: **abdessamadhnioua@gmail.com**
+## 👨‍💻 About Me
+
+🎓 **Master’s Degree in Artificial Intelligence & Computer Engineering** – *FST Marrakech*
+💼 **Full-Stack Developer | Next.js | Data Analyst | IoT & AI Enthusiast**
+🚀 Passionate about **technology, robotics, artificial intelligence, and intelligent systems**.
+📫 Reach me at: **[abdessamadhnioua@gmail.com](mailto:abdessamadhnioua@gmail.com)**
+
 
 ---
 
